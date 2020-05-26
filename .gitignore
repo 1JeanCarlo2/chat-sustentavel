@@ -26,3 +26,6 @@ yarn-error.log*
 
 /client/.netlify
 /client/build
+# parte escrita
+#libreoffice
+.~lock.APS_5sem.odt#
